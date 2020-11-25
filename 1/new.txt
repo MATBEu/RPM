@@ -1,0 +1,1 @@
+{ "pokemons": [ { "name": "kek", "hp": 1, "attack": 13, "speed": 1}, { "name": "kek2", "hp": 12, "defense": 7, "speed": 2}, { "name": "kek3", "hp": 124, "speed": 121, "specialAttack": 187, "specialDefense": 211}]}
